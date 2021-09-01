@@ -1,7 +1,7 @@
 ## 说明
 
 
-
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Qliangw/openwrt-x86_64-qw/Update%20Checker?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/actions)
 [![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
 
@@ -31,6 +31,7 @@
   1. [Bootstrap](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Bootstrap.png)
   2. [edge](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/edge.png)
   3. [Material](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Material.png)
+
 
 ### 插件
 
