@@ -4,7 +4,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/stargazers)
-![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=for-the-badge)
+[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
 
 **本openwrt仅适用于x86_64的CPU.**
 
