@@ -2,7 +2,10 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Qliangw/openwrt-x86_64-qw)](https://github.com/Qliangw/openwrt-x86_64-qw/stargazers)  [![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)   ![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total)
+[![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/network)
+[![GitHub stars](https://img.shields.io/github/stars/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/LICENSE)
 
 **本openwrt仅适用于x86_64的CPU.**
 
