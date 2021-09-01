@@ -172,7 +172,7 @@ jobs:
       with:
         tag_name: ${{ steps.tag.outputs.release_tag }}
         body_path: release.txt
-        files: ${{ env.FIRMWARE }}/*
+        files: ${{ env.FIRMWARE }}/*combined*
 
     - name: Delete workflow runs
       uses: GitRML/delete-workflow-runs@main
