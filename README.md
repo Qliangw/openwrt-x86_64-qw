@@ -46,22 +46,22 @@
 
 #### 服务
 
-  1. ssrPlus+
+  1. SSRPlus+
   2. AdgHome
   3. openclash
-  4. wol
+  4. <del>wol</del>
   5. push
-  6. 上网时间控制
+  6. <del>上网时间控制</del>
   7. <del> ddns</del> (*旁路由用不上*)
   8. <del>  upnp </del>(*旁路由用不上*)
 
 #### <del>NAS</del>
   1. <del>Samba</del>
 
-## 感谢原作者
+## 鸣谢
 
-感谢[@Lean ](https://github.com/coolsnowwolf)
-感谢[@P3TERX](https://github.com/P3TERX)
+- 感谢[@Lean ](https://github.com/coolsnowwolf)
+- 感谢[@P3TERX](https://github.com/P3TERX)
 
-使用了[L大源码](https://github.com/coolsnowwolf/lede)及[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)大佬提供云编译
+> 使用了[L大源码](https://github.com/coolsnowwolf/lede)及[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)大佬提供云编译
 
