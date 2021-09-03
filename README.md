@@ -1,9 +1,12 @@
 ## 说明
 
-[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Qliangw/openwrt-x86_64-qw/Update%20Checker?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/actions)
-[![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
-[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
+
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
+
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Qliangw/openwrt-x86_64-qw/Update%20Checker?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/actions)
+[![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
+[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw)
+
 
 **本openwrt仅适用于x86_64的CPU.**
 
