@@ -1,9 +1,13 @@
 ## 说明
 
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Qliangw/openwrt-x86_64-qw/Update%20Checker?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/actions)
-[![GitHub issues](https://img.shields.io/github/issues/Qliangw/openwrt-x86_64-qw?style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/issues)
-[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=for-the-badge)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
+
+[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw)
+
+
+
+
 
 **本openwrt仅适用于x86_64的CPU.**
 
@@ -46,22 +50,29 @@
 
 #### 服务
 
-  1. ssrPlus+
+  1. SSRPlus+
   2. AdgHome
   3. openclash
-  4. wol
+  4. <del>wol</del>
   5. push
-  6. 上网时间控制
+  6. <del>上网时间控制</del>
   7. <del> ddns</del> (*旁路由用不上*)
   8. <del>  upnp </del>(*旁路由用不上*)
 
 #### <del>NAS</del>
   1. <del>Samba</del>
 
-## 感谢原作者
+## 鸣谢
 
-感谢[@Lean ](https://github.com/coolsnowwolf)
-感谢[@P3TERX](https://github.com/P3TERX)
+- 感谢[@Lean ](https://github.com/coolsnowwolf)
+- 感谢[@P3TERX](https://github.com/P3TERX)
+- 感谢[@kenzok8](https://github.com/kenzok8)
 
-使用了[L大源码](https://github.com/coolsnowwolf/lede)及[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)大佬提供云编译
+> 使用了
+> 
+>   1. [L大源码](https://github.com/coolsnowwolf/lede)
+>   2. [P3TERX大佬的云编译](https://github.com/P3TERX/Actions-OpenWrt)
+>   3. [kenzok8整理的sall库](https://github.com/kenzok8/small)
+>   4. [kenzok8整理的packages](https://github.com/kenzok8/openwrt-packages)
+>   5. 最后感谢上面使用了但未未提及的大佬们
 
