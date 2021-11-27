@@ -27,8 +27,9 @@
 
 ## 默认安装
 
-### 主题
+[主界面](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/main.png)
 
+### 主题
 
 主题样式:
 
@@ -49,18 +50,13 @@
   6. 负载均衡(*new*)
 
 #### 服务
-
-  1. SSRPlus+
-  2. AdgHome
-  3. openclash
-  4. <del>wol</del>
-  5. push
-  6. <del>上网时间控制</del>
-  7. <del> ddns</del> (*旁路由用不上*)
-  8. <del>  upnp </del>(*旁路由用不上*)
-
-#### <del>NAS</del>
-  1. <del>Samba</del>
+  1. openclash
+  2. wol
+  3. 上网时间控制
+  4. push
+  5. ddns
+  6. upnp 
+  7. istore
 
 ## 鸣谢
 
