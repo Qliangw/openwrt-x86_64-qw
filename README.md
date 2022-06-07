@@ -3,7 +3,7 @@
 
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Qliangw/openwrt-x86_64-qw?include_prereleases&style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
 
-[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw)
+[![GitHub all releases](https://img.shields.io/github/downloads/Qliangw/openwrt-x86_64-qw/total?style=social)](https://github.com/Qliangw/openwrt-x86_64-qw/releases)
 
 
 
