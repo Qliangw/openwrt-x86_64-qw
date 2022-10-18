@@ -84,7 +84,7 @@ jobs:
         
     - name: change banner
       run: |
-        cd openwrt/package/base-files/files/etc
+        cd /workdir/openwrt/package/base-files/files/etc
         sudo rm banner
         wget https://raw.githubusercontent.com/Qliangw/openwrt-x86_64-qw/main/banner
 
