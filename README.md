@@ -27,7 +27,7 @@
 
 ## 更新
 
-2022-10-14
+2022-10-18
 
 **本地调整建议重新配置，不然可能遇到内核卡住不能正常开机**
 
@@ -36,45 +36,36 @@
 **本地调整建议重新配置，不然可能遇到内核卡住不能正常开机**
 
 1. 增加ssr（为了开始服务端，方便clash回家）
-2. 增加openVpn（也是为了回家，多条线路
+2. 增加snmpd server
 3. 增加了几个主题
-4. 网易云解锁等几个小工具
+4. kernel升级为6.0.2
 
 ----------------
 
-
-## 默认安装
+### 展示一下
 
 [主界面](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/main.png)
 
 ### 主题
 
-主题样式:
+[Bootstrap](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/themes.png)
 
-  1. [Bootstrap](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Bootstrap.png)
-  2. [edge](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/edge.png)
-  3. [Material](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/Material.png)
-
-
-### 插件
+### 精简到只有几个个人使用的
 
 #### 系统
 
   1. ttyd
   2. 定时重启
   3. 文件传输
-  4. 挂载
-  5. 多拨(*new*)
-  6. 负载均衡(*new*)
 
 #### 服务
   1. openclash
-  2. wol
-  3. 上网时间控制
-  4. push
-  5. ddns
-  6. upnp 
-  7. istore
+  2. ssr
+  3. serverChan
+  4. ddns
+  5. smartDns
+  6. kms
+
 
 ## 鸣谢
 
