@@ -44,11 +44,11 @@
 
 ### 展示一下
 
-[主界面](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/main.jpg)
+![主界面](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/main.jpg)
 
 ### 主题
 
-[主题种类](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/themes.jpg)
+![主题种类](https://github.com/Qliangw/openwrt-x86_64-qw/blob/main/pictures/themes.jpg)
 
 ### 精简到只有几个个人使用的
 
