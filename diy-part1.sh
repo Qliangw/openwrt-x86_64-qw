@@ -19,5 +19,3 @@
 
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-
-sed -i 's/192.168.1.1/192.168.1.253/g' openwrt/package/base-files/files/bin/config_generate
