@@ -82,11 +82,11 @@ jobs:
         cd openwrt
         $GITHUB_WORKSPACE/$DIY_P2_SH
         
-    - name: change banner
+    - name: Change banner
       run: |
-        cd /workdir/openwrt/package/base-files/files/etc
-        sudo rm banner
+        cd openwrt
         wget https://raw.githubusercontent.com/Qliangw/openwrt-x86_64-qw/main/banner
+        mv banner package/base-files/files/etc/banner
 
 #    - name: SSH connection to Actions
 #      uses: P3TERX/ssh2actions@v1.0.0
