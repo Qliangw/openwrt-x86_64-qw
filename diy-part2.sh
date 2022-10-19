@@ -13,3 +13,4 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 sed -i 's/192.168.1.1/192.168.1.253/g' package/base-files/files/bin/config_generate
+sed -i 's/^IMG_PREFIX\:\=.*/IMG_PREFIX:=$(shell date +"%Y%m%d")-$(VERSION_DIST_SANITIZED)-$(IMG_PREFIX_VERNUM)$(IMG_PREFIX_VERCODE)$(IMG_PREFIX_EXTRA)$(BOARD)$(if $(SUBTARGET),-$(SUBTARGET))/g' include/image.mk
